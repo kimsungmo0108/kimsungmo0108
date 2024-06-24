@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kimsungmo0108/kimsungmo0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center><h1>📚 STACKS</h1></div>
 
+<h1 align=center>👋 Welcome my github profile !</h1>
+<div align=center>
+안녕하세요! 저는 열정적이고 책임감 있는 웹 개발자입니다. 
+<br>
+Spring Boot, Thymeleaf, AJAX와 같은 웹 기술을 활용하여 사용자 친화적인 인터페이스와 백엔드를 구축하는 데 자신이 있습니다.
+<br>
+항상 새로운 배움을 즐기며, 팀워크와 커뮤니케이션을 통해 더 나은 결과를 도출하는 것을 목표로 합니다.
+</div>
+
+<br>
+<div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -35,10 +43,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/naver cloud service-03C75A?style=for-the-badge&logo=naver&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
-
 </div>
 
+<br>
+<div align=center><h1>📈 Stats</h1></div>
 <div align=center> 
+  
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=kimsungmo0108&show_icons=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsungmo0108&layout=compact)
+  
 </div>
