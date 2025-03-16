@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align=center>👋 Welcome my github profile !</h1>
+<h1 align=center>👋 Welcome to KimSungMo's github!</h1>
 <div align=center>
 안녕하세요! 저는 열정적이고 책임감 있는 웹 개발자입니다. 
 <br>
