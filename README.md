@@ -51,9 +51,6 @@ Spring Boot, Thymeleaf, AJAX 등과 같은 웹 기술을 활용하여 사용자 
 <div align=center> 
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsungmo0108&layout=compact)
-  <br>
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=kimsungmo0108&show_icons=true)
-  <br>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsungmo0108&hide=contribs,prs&show_icons=true&theme=graywhite)
   
 </div>
