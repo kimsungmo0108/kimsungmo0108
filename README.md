@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <div align=center>
 안녕하세요! 저는 열정적이고 책임감 있는 웹 개발자입니다. 
 <br>
-Spring Boot, Thymeleaf, AJAX 등과 같은 웹 기술을 활용하여 사용자 친화적인 인터페이스와 서버를 구축하는 데 자신이 있습니다.
+<!-- Spring Boot, Thymeleaf, AJAX 등과 같은 웹 기술을 활용하여 사용자 친화적인 인터페이스와 서버를 구축하는 데 자신이 있습니다.
 <br>
 항상 새로운 배움을 즐기며, 팀워크와 커뮤니케이션을 통해 더 나은 결과를 도출하는 것을 목표로 합니다.
+-->
 </div>
 <br>
 
